@@ -6,7 +6,7 @@
 
 2. Rechtsklick auf das gewünschte Bild
 
-![image](https://github.com/user-attachments/assets/d3f17392-b0ee-4903-bcd9-35cd1fb6012e)
+![image](https://github.com/user-attachments/assets/c38e3302-7fca-41d4-9f3c-5bbf722a23bd)
 
 3. Bild kopieren drücken
 
